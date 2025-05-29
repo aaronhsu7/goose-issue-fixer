@@ -111,3 +111,4 @@ Check out https://github.com/block-open-source/goose for more on goose.
 > [!WARNING]  
 > Always review goose changes that it proposes.
 
+# goose-issue-fixer
